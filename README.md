@@ -1,2 +1,2 @@
-"# wa-duro" 
-"# waduro" 
+"WA-DURO"
+"WA BOT BUATAN MADURA PRIDE"
